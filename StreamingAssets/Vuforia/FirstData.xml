@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="photoDiff" size="50.000000 70.796463" />
+    <ImageTarget name="photo_2022-03-20_11-37-37" size="50.000000 35.312500" />
+    <ImageTarget name="photo_2022-01-09_22-20-52" size="50.000000 63.760220" />
+    <ImageTarget name="pexels-sarah-trummer-955793" size="50.000000 56.343632" />
+    <ImageTarget name="pexels-pixabay-164558" size="50.000000 32.784130" />
+    <ImageTarget name="m4" size="50.000000 57.758621" />
+    <ImageTarget name="m15" size="50.000000 57.758621" />
+  </Tracking>
+</QCARConfig>
